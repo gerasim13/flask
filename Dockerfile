@@ -1,4 +1,4 @@
-FROM python:3-onbuild
+FROM pypy:3-onbuild
 MAINTAINER Pavel Litvinenko <gerasim13@gmail.com>
 ADD requirements.txt requirements.txt
 RUN pip install virtualenv
