@@ -1,2 +1,4 @@
 flask
+flask-security
 flask-debugtoolbar
+flask-babelex
